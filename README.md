@@ -7,3 +7,5 @@ Este es el diseño que hacemos en esta aplicación
 [Canal de Youtube](https://www.youtube.com/channel/UCuaPTYj15JSkETGnEseaFFg?view_as=subscriber)
 
 ![Imagen final](https://fernando-herrera.com/youtube/shoesapp.png)
+
+![Imagen final](https://fernando-herrera.com/youtube/shoesapp2.png)
