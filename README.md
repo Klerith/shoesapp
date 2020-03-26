@@ -1,16 +1,9 @@
-# shoesapp
+# Shoesapp
 
-A new Flutter project.
+Este es el diseño que hacemos en esta aplicación
 
-## Getting Started
+[Curso de Flutter donde hacemos este diseño](https://fernando-herrera.com/#/curso/flutter-disenos)
 
-This project is a starting point for a Flutter application.
+[Canal de Youtube](https://www.youtube.com/channel/UCuaPTYj15JSkETGnEseaFFg?view_as=subscriber)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Imagen final](https://fernando-herrera.com/youtube/shoesapp.png)
