@@ -98,7 +98,8 @@ class _TallaZapatoCaja extends StatelessWidget {
         zapatoModel.talla = this.numero;
 
       },
-      child: Container(
+      child: AnimatedContainer(
+        duration: Duration( milliseconds: 300 ),
         alignment: Alignment.center,
         child: Text( '${numero.toString().replaceAll('.0', '')}', 
           style: TextStyle(
